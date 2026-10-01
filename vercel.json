@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/mine.js": { "maxDuration": 60 },
+    "api/write.js": { "maxDuration": 60 }
+  }
+}
